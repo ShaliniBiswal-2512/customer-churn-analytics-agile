@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://markuphero.com/share/69849c8fdb1eeb7c44b1a8e7 -->
+<html lang="en" class="full-size-html"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <meta name="slack-app-id" content="A014TEF7TB5">
+
+    <meta property="og:title" content="View Markup - Markup Hero">
+    <meta property="og:description" content="Annotate your markup.">
+    
+    
+    
+    
+
+    <!--<base href="/">--><base href=".">
+
+    
+    <title>View Markup - Markup Hero</title>
+    <meta name="description" content="Annotate your markup.">
+
+    <script src="./Jira_Backlog_files/cb=gapi.loaded_0" async=""></script><script src="./Jira_Backlog_files/598398370761722" async=""></script><script async="" src="./Jira_Backlog_files/fbevents.js.download"></script><script type="text/javascript" async="" src="./Jira_Backlog_files/fprom.js.download"></script><script type="text/javascript">(function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://cdn.firstpromoter.com/fprom.js',t.onload=t.onreadystatechange=function(){var t=this.readyState;if(!t||"complete"==t||"loaded"==t)try{$FPROM.init("1o8n5meq",".markuphero.com")}catch(t){}};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();</script>
+    <script>!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js');fbq('init', '598398370761722');fbq('track', 'PageView');</script>
+
+    <script async="" src="./Jira_Backlog_files/js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-667291092');
+    </script>
+    <script type="module" crossorigin="" src="./Jira_Backlog_files/index-Cue_qiGL.js.download"></script>
+    <link rel="stylesheet" crossorigin="" href="./Jira_Backlog_files/index-CLXyvv0E.css">
+  <script type="text/javascript" async="" src="./Jira_Backlog_files/f.txt"></script><style type="text/css">
+.v-spinner .v-beat {
+  -webkit-animation: v-beatStretchDelay 0.7s infinite linear;
+  animation: v-beatStretchDelay 0.7s infinite linear;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  display: inline-block;
+}
+.v-spinner .v-beat-odd {
+  animation-delay: 0s;
+}
+.v-spinner .v-beat-even {
+  animation-delay: 0.35s;
+}
+@-webkit-keyframes v-beatStretchDelay {
+50% {
+    -webkit-transform: scale(0.75);
+    transform: scale(0.75);
+    -webkit-opacity: 0.2;
+    opacity: 0.2;
+}
+100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+}
+@keyframes v-beatStretchDelay {
+50% {
+    -webkit-transform: scale(0.75);
+    transform: scale(0.75);
+    -webkit-opacity: 0.2;
+    opacity: 0.2;
+}
+100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+}
+</style><style type="text/css">
+.v-spinner .v-bounce {
+}
+.v-spinner .v-bounce1 {
+}
+.v-spinner .v-bounce2 {
+  -webkit-animation: v-bounceStretchDelay 2s 1s infinite ease-in-out;
+  animation: v-bounceStretchDelay 2s 1s infinite ease-in-out;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.v-spinner .v-bounce3 {
+  -webkit-animation: v-bounceStretchDelay 2s 0s infinite ease-in-out;
+  animation: v-bounceStretchDelay 2s 0s infinite ease-in-out;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+@-webkit-keyframes v-bounceStretchDelay {
+0%,
+  100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+@keyframes v-bounceStretchDelay {
+0%,
+  100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+</style><style type="text/css">
+.v-spinner {
+  /*	  font-size: 10px; 
+
+    width: 60px;
+    height: 40px;*/
+  /*margin: 25px auto;*/
+  text-align: center;
+}
+.v-spinner .v-clip {
+  -webkit-animation: v-clipDelay 0.75s 0s infinite linear;
+  animation: v-clipDelay 0.75s 0s infinite linear;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+
+  display: inline-block;
+}
+@-webkit-keyframes v-clipDelay {
+0% {
+    -webkit-transform: rotate(0deg) scale(1);
+    transform: rotate(0deg) scale(1);
+}
+50% {
+    -webkit-transform: rotate(180deg) scale(0.8);
+    transform: rotate(180deg) scale(0.8);
+}
+100% {
+    -webkit-transform: rotate(360deg) scale(1);
+    transform: rotate(360deg) scale(1);
+}
+}
+@keyframes v-clipDelay {
+0% {
+    -webkit-transform: rotate(0deg) scale(1);
+    transform: rotate(0deg) scale(1);
+}
+50% {
+    -webkit-transform: rotate(180deg) scale(0.8);
+    transform: rotate(180deg) scale(0.8);
+}
+100% {
+    -webkit-transform: rotate(360deg) scale(1);
+    transform: rotate(360deg) scale(1);
+}
+}
+</style><style type="text/css">
+.v-spinner .v-dot {
+}
+.v-spinner .v-dot1 {
+  -webkit-animation: v-dotRotate 2s 0s infinite linear;
+  animation: v-dotRotate 2s 0s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+.v-spinner .v-dot2 {
+  -webkit-animation: v-dotBounce 2s 0s infinite linear;
+  animation: v-dotBounce 2s 0s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  position: absolute;
+  top: 0;
+  bottom: auto;
+}
+.v-spinner .v-dot3 {
+  -webkit-animation: v-dotBounce 2s -1s infinite linear;
+  animation: v-dotBounce 2s -1s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  position: absolute;
+  top: auto;
+  bottom: 0;
+}
+@-webkit-keyframes v-dotRotate {
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+@keyframes v-dotRotate {
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+@-webkit-keyframes v-dotBounce {
+0%,
+  100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+@keyframes v-dotBounce {
+0%,
+  100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+}
+</style><style type="text/css">
+.v-spinner .v-fade {
+  -webkit-animation: v-fadeStretchDelay 1.2s infinite ease-in-out;
+  animation: v-fadeStretchDelay 1.2s infinite ease-in-out;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  position: absolute;
+}
+@-webkit-keyframes v-fadeStretchDelay {
+50% {
+    -webkit-opacity: 0.3;
+    opacity: 0.3;
+}
+100% {
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+}
+@keyframes v-fadeStretchDelay {
+50% {
+    -webkit-opacity: 0.3;
+    opacity: 0.3;
+}
+100% {
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+}
+</style><style type="text/css">
+@-webkit-keyframes v-gridStretchDelay {
+0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+50% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+}
+100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+}
+@keyframes v-gridStretchDelay {
+0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+50% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+}
+100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+}
+</style><style type="text/css">
+.whirlpool[data-v-b9d9af2e] {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  transform: scale(var(--b9d9af2e-props\.scale));
+}
+.ring[data-v-b9d9af2e]:before {
+  content: "";
+  border-radius: 50%;
+  border: 1px solid var(--b9d9af2e-props\.color);
+  position: absolute;
+}
+.ring0[data-v-b9d9af2e]:before {
+  left: 45px;
+  width: 10px;
+  top: 13px;
+  height: 3px;
+  animation: var(--b9d9af2e-props\.speed) ease 0s infinite spinner-b9d9af2e;
+}
+.ring1[data-v-b9d9af2e]:before {
+  left: 40px;
+  width: 20px;
+  top: 12px;
+  height: 6px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.1s infinite spinner-b9d9af2e;
+}
+.ring2[data-v-b9d9af2e]:before {
+  left: 35px;
+  width: 30px;
+  top: 11px;
+  height: 9px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.2s infinite spinner-b9d9af2e;
+}
+.ring3[data-v-b9d9af2e]:before {
+  left: 30px;
+  width: 40px;
+  top: 9px;
+  height: 12px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.3s infinite spinner-b9d9af2e;
+}
+.ring4[data-v-b9d9af2e]:before {
+  left: 25px;
+  width: 50px;
+  top: 8px;
+  height: 15px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.4s infinite spinner-b9d9af2e;
+}
+.ring5[data-v-b9d9af2e]:before {
+  left: 20px;
+  width: 60px;
+  top: 6px;
+  height: 18px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.5s infinite spinner-b9d9af2e;
+}
+.ring6[data-v-b9d9af2e]:before {
+  left: 15px;
+  width: 70px;
+  top: 5px;
+  height: 21px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.6s infinite spinner-b9d9af2e;
+}
+.ring7[data-v-b9d9af2e]:before {
+  left: 10px;
+  width: 80px;
+  top: 3px;
+  height: 24px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.7s infinite spinner-b9d9af2e;
+}
+.ring8[data-v-b9d9af2e]:before {
+  left: 5px;
+  width: 90px;
+  top: 2px;
+  height: 27px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.8s infinite spinner-b9d9af2e;
+}
+.ring9[data-v-b9d9af2e]:before {
+  width: 100px;
+  height: 30px;
+  animation: var(--b9d9af2e-props\.speed) ease 0.9s infinite spinner-b9d9af2e;
+}
+@keyframes spinner-b9d9af2e {
+0% {
+    transform: translateY(10px);
+    animation-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+50% {
+    transform: translateY(60px);
+    animation-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+100% {
+    transform: translateY(10px);
+    animation-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+}
+</style><style type="text/css">
+.v-spinner .v-moon1 {
+  -webkit-animation: v-moonStretchDelay 0.6s 0s infinite linear;
+  animation: v-moonStretchDelay 0.6s 0s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  position: relative;
+}
+.v-spinner .v-moon2 {
+  -webkit-animation: v-moonStretchDelay 0.6s 0s infinite linear;
+  animation: v-moonStretchDelay 0.6s 0s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  opacity: 0.8;
+  position: absolute;
+}
+.v-spinner .v-moon3 {
+  opacity: 0.1;
+}
+@-webkit-keyframes v-moonStretchDelay {
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+@keyframes v-moonStretchDelay {
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+</style><style type="text/css">
+.v-spinner {
+  text-align: center;
+}
+
+/*TODO computed transform */
+@-webkit-keyframes v-pacmanStretchDelay {
+75% {
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+}
+100% {
+    -webkit-transform: translate(-100px, -6.25px);
+    transform: translate(-100px, -6.25px);
+}
+}
+@keyframes v-pacmanStretchDelay {
+75% {
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+}
+100% {
+    -webkit-transform: translate(-100px, -6.25px);
+    transform: translate(-100px, -6.25px);
+}
+}
+</style><style type="text/css">
+.pacman-container {
+  display: block;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -moz-animation: bite 0.5s linear infinite;
+  -webkit-animation: bite 0.5s linear infinite;
+  animation: bite 0.5s linear infinite;
+}
+.pacman-body {
+  background-color: #ff0;
+  position: absolute;
+}
+.dot {
+  background-color: #318a47;
+  position: absolute;
+  z-index: 0;
+  -moz-animation: movedot 0.5s linear infinite;
+  -webkit-animation: movedot 0.5s linear infinite;
+  animation: movedot 0.5s linear infinite;
+  -moz-animation-delay: 0.2s;
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+.pacman {
+  position: absolute;
+  z-index: 2;
+}
+.pacman-mouth {
+  position: absolute;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -o-border-radius: 50px;
+  border-radius: 50px;
+  clip: rect(0px, 100px, 100px, 52px);
+}
+.pacman-mouth .pacman {
+  background-color: #ffffff;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  -moz-animation: munch 0.5s linear infinite;
+  -webkit-animation: munch 0.5s linear infinite;
+  animation: munch 0.5s linear infinite;
+
+  /* To fix a yellow border on pacman's mouth */
+  border: 10px solid #ffffff;
+}
+.dot {
+  -moz-animation: movedot 1s linear infinite;
+  -webkit-animation: movedot 1s linear infinite;
+  animation: movedot 1s linear infinite;
+  -moz-animation-delay: 0.4s;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+@-moz-keyframes munch {
+0% {
+    -moz-transform: rotate(90deg);
+}
+50% {
+    -moz-transform: rotate(0deg);
+}
+100% {
+    -moz-transform: rotate(90deg);
+}
+}
+@-webkit-keyframes munch {
+0% {
+    -webkit-transform: rotate(90deg);
+}
+50% {
+    -webkit-transform: rotate(0deg);
+}
+100% {
+    -webkit-transform: rotate(90deg);
+}
+}
+@keyframes munch {
+0% {
+    transform: rotate(90deg);
+}
+50% {
+    transform: rotate(0deg);
+}
+100% {
+    transform: rotate(90deg);
+}
+}
+@-moz-keyframes bite {
+0% {
+    -moz-transform: rotate(45deg);
+}
+50% {
+    -moz-transform: rotate(90deg);
+}
+100% {
+    -moz-transform: rotate(45deg);
+}
+}
+@-webkit-keyframes bite {
+0% {
+    -webkit-transform: rotate(45deg);
+}
+50% {
+    -webkit-transform: rotate(90deg);
+}
+100% {
+    -webkit-transform: rotate(45deg);
+}
+}
+@keyframes bite {
+0% {
+    transform: rotate(45deg);
+}
+50% {
+    transform: rotate(90deg);
+}
+100% {
+    transform: rotate(45deg);
+}
+}
+@-webkit-keyframes movedot {
+0% {
+    left: 200px;
+}
+100% {
+    left: 50px;
+}
+}
+@-moz-keyframes movedot {
+0% {
+    left: 200px;
+}
+100% {
+    left: 50px;
+}
+}
+@keyframes movedot {
+0% {
+    left: 200px;
+}
+100% {
+    left: 50px;
+}
+}
+</style><style type="text/css">
+/*.v-spinner
+{
+    margin: 100px auto;
+    text-align: center;
+}
+*/
+@-webkit-keyframes v-pulseStretchDelay {
+0%,
+  80% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+45% {
+    -webkit-transform: scale(0.1);
+    transform: scale(0.1);
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+}
+}
+@keyframes v-pulseStretchDelay {
+0%,
+  80% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-opacity: 1;
+    opacity: 1;
+}
+45% {
+    -webkit-transform: scale(0.1);
+    transform: scale(0.1);
+    -webkit-opacity: 0.7;
+    opacity: 0.7;
+}
+}
+</style><style type="text/css">
+.v-spinner .v-ring {
+}
+.v-spinner .v-ring1 {
+}
+.v-spinner .v-ring2 {
+  -webkit-animation: v-ringRightRotate 2s 0s infinite linear;
+  animation: v-ringRightRotate 2s 0s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  perspective: 800px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.v-spinner .v-ring3 {
+  -webkit-animation: v-ringLeftRotate 2s 0s infinite linear;
+  animation: v-ringLeftRotate 2s 0s infinite linear;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+  perspective: 800px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+@-webkit-keyframes v-ringRightRotate {
+0% {
+    -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+100% {
+    -webkit-transform: rotateX(180deg) rotateY(360deg) rotateZ(360deg);
+    transform: rotateX(180deg) rotateY(360deg) rotateZ(360deg);
+}
+}
+@keyframes v-ringRightRotate {
+0% {
+    -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+100% {
+    -webkit-transform: rotateX(180deg) rotateY(360deg) rotateZ(360deg);
+    transform: rotateX(180deg) rotateY(360deg) rotateZ(360deg);
+}
+}
+@-webkit-keyframes v-ringLeftRotate {
+0% {
+    -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+100% {
+    -webkit-transform: rotateX(360deg) rotateY(180deg) rotateZ(360deg);
+    transform: rotateX(360deg) rotateY(180deg) rotateZ(360deg);
+}
+}
+@keyframes v-ringLeftRotate {
+0% {
+    -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+}
+100% {
+    -webkit-transform: rotateX(360deg) rotateY(180deg) rotateZ(360deg);
+    transform: rotateX(360deg) rotateY(180deg) rotateZ(360deg);
+}
+}
+</style><style type="text/css">
+.v-spinner {
+  /*	  font-size: 10px; 
+
+    width: 60px;
+    height: 40px;*/
+  /*margin: 25px auto;*/
+  text-align: center;
+}
+.v-spinner .v-rise-odd {
+  -webkit-animation: v-riseOddDelay 1s 0s infinite
+    cubic-bezier(0.15, 0.46, 0.9, 0.6);
+  animation: v-riseOddDelay 1s 0s infinite cubic-bezier(0.15, 0.46, 0.9, 0.6);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+
+  display: inline-block;
+}
+.v-spinner .v-rise-even {
+  -webkit-animation: v-riseEvenDelay 1s 0s infinite
+    cubic-bezier(0.15, 0.46, 0.9, 0.6);
+  animation: v-riseEvenDelay 1s 0s infinite cubic-bezier(0.15, 0.46, 0.9, 0.6);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+
+  display: inline-block;
+}
+@-webkit-keyframes v-riseOddDelay {
+0% {
+    -webkit-transform: scale(0.4);
+    transform: scale(0.4);
+}
+25% {
+    -webkit-transform: translateY(30px);
+    transform: translateY(30px);
+}
+50% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+75% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+}
+100% {
+    -webkit-transform: translateY(0) scale(0.75);
+    transform: translateY(0) scale(0.75);
+}
+}
+@keyframes v-riseOddDelay {
+0% {
+    -webkit-transform: scale(0.4);
+    transform: scale(0.4);
+}
+25% {
+    -webkit-transform: translateY(30px);
+    transform: translateY(30px);
+}
+50% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+75% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+}
+100% {
+    -webkit-transform: translateY(0) scale(0.75);
+    transform: translateY(0) scale(0.75);
+}
+}
+@-webkit-keyframes v-riseEvenDelay {
+0% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+25% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+}
+50% {
+    -webkit-transform: scale(0.4);
+    transform: scale(0.4);
+}
+75% {
+    -webkit-transform: translateY(30px);
+    transform: translateY(30px);
+}
+100% {
+    -webkit-transform: translateY(0) scale(1);
+    transform: translateY(0) scale(1);
+}
+}
+@keyframes v-riseEvenDelay {
+0% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+25% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+}
+50% {
+    -webkit-transform: scale(0.4);
+    transform: scale(0.4);
+}
+75% {
+    -webkit-transform: translateY(30px);
+    transform: translateY(30px);
+}
+100% {
+    -webkit-transform: translateY(0) scale(1);
+    transform: translateY(0) scale(1);
+}
+}
+</style><style type="text/css">
+.v-spinner .v-rotate1 {
+  -webkit-animation: v-rotateStretchDelay 1s 0s infinite
+    cubic-bezier(0.7, -0.13, 0.22, 0.86);
+  animation: v-rotateStretchDelay 1s 0s infinite
+    cubic-bezier(0.7, -0.13, 0.22, 0.86);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  display: inline-block;
+  position: relative;
+}
+.v-spinner .v-rotate2 {
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  left: -28px;
+}
+.v-spinner .v-rotate3 {
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  left: 25px;
+}
+@-webkit-keyframes v-rotateStretchDelay {
+0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+50% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+@keyframes v-rotateStretchDelay {
+0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+50% {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+}
+</style><style type="text/css">
+.v-spinner {
+  /*	  font-size: 10px; 
+
+    width: 60px;
+    height: 40px;*/
+  /*margin: 25px auto;*/
+  text-align: center;
+}
+@-webkit-keyframes v-scaleStretchDelay {
+0% {
+    -webkit-animation-name: inherit;
+    -webkit-animation-duration: inherit;
+    -webkit-animation-iteration-count: inherit;
+    -webkit-animation-direction: inherit;
+}
+50% {
+    -webkit-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+}
+100% {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+}
+}
+@keyframes v-scaleStretchDelay {
+0% {
+    -webkit-animation-name: inherit;
+    -webkit-animation-duration: inherit;
+    -webkit-animation-iteration-count: inherit;
+    -webkit-animation-direction: inherit;
+}
+50% {
+    -webkit-transform: scaleY(0.4);
+    transform: scaleY(0.4);
+}
+100% {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+}
+}
+</style><style type="text/css">
+.v-spinner {
+  text-align: center;
+}
+.v-spinner .v-skew {
+  -webkit-animation: v-skewDelay 3s 0s infinite
+    cubic-bezier(0.09, 0.57, 0.49, 0.9);
+  animation: v-skewDelay 3s 0s infinite cubic-bezier(0.09, 0.57, 0.49, 0.9);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  display: inline-block;
+}
+@-webkit-keyframes v-skewDelay {
+25% {
+    -webkit-transform: perspective(100px) rotateX(180deg) rotateY(0);
+    transform: perspective(100px) rotateX(180deg) rotateY(0);
+}
+50% {
+    -webkit-transform: perspective(100px) rotateX(180deg) rotateY(180deg);
+    transform: perspective(100px) rotateX(180deg) rotateY(180deg);
+}
+75% {
+    -webkit-transform: perspective(100px) rotateX(0) rotateY(180deg);
+    transform: perspective(100px) rotateX(0) rotateY(180deg);
+}
+100% {
+    -webkit-transform: perspective(100px) rotateX(0) rotateY(0);
+    transform: perspective(100px) rotateX(0) rotateY(0);
+}
+}
+@keyframes v-skewDelay {
+25% {
+    -webkit-transform: perspective(100px) rotateX(180deg) rotateY(0);
+    transform: perspective(100px) rotateX(180deg) rotateY(0);
+}
+50% {
+    -webkit-transform: perspective(100px) rotateX(180deg) rotateY(180deg);
+    transform: perspective(100px) rotateX(180deg) rotateY(180deg);
+}
+75% {
+    -webkit-transform: perspective(100px) rotateX(0) rotateY(180deg);
+    transform: perspective(100px) rotateX(0) rotateY(180deg);
+}
+100% {
+    -webkit-transform: perspective(100px) rotateX(0) rotateY(0);
+    transform: perspective(100px) rotateX(0) rotateY(0);
+}
+}
+</style><style type="text/css">
+.v-spinner {
+  text-align: center;
+}
+.v-spinner .v-square {
+  -webkit-animation: v-squareDelay 3s 0s infinite
+    cubic-bezier(0.09, 0.57, 0.49, 0.9);
+  animation: v-squareDelay 3s 0s infinite cubic-bezier(0.09, 0.57, 0.49, 0.9);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  perspective: 100px;
+  display: inline-block;
+}
+@-webkit-keyframes v-squareDelay {
+25% {
+    -webkit-transform: rotateX(180deg) rotateY(0);
+    transform: rotateX(180deg) rotateY(0);
+}
+50% {
+    -webkit-transform: rotateX(180deg) rotateY(180deg);
+    transform: rotateX(180deg) rotateY(180deg);
+}
+75% {
+    -webkit-transform: rotateX(0) rotateY(180deg);
+    transform: rotateX(0) rotateY(180deg);
+}
+100% {
+    -webkit-transform: rotateX(0) rotateY(0);
+    transform: rotateX(0) rotateY(0);
+}
+}
+@keyframes v-squareDelay {
+25% {
+    -webkit-transform: rotateX(180deg) rotateY(0);
+    transform: rotateX(180deg) rotateY(0);
+}
+50% {
+    -webkit-transform: rotateX(180deg) rotateY(180deg);
+    transform: rotateX(180deg) rotateY(180deg);
+}
+75% {
+    -webkit-transform: rotateX(0) rotateY(180deg);
+    transform: rotateX(0) rotateY(180deg);
+}
+100% {
+    -webkit-transform: rotateX(0) rotateY(0);
+    transform: rotateX(0) rotateY(0);
+}
+}
+</style><style type="text/css">
+@-webkit-keyframes v-syncStretchDelay {
+33% {
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+}
+66% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+}
+100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+}
+}
+@keyframes v-syncStretchDelay {
+33% {
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+}
+66% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+}
+100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+}
+}
+</style><script src="./Jira_Backlog_files/api.js.download" gapi_processed="true"></script><script type="text/javascript" async="" src="./Jira_Backlog_files/f(1).txt"></script><style>.overlay-container[data-v-90367226]{bottom:0;-moz-column-gap:0;column-gap:0;display:grid;grid-template-columns:var(--b8f9171a);left:0;position:fixed;right:0;row-gap:0;top:0;z-index:var(--ef484772)}.overlay[data-v-90367226]{background-color:rgba(0,0,0,.33);height:100%;width:100%;z-index:1}.overlay-center[data-v-90367226]{-moz-column-gap:0;column-gap:0;display:grid;grid-template-rows:var(--12361785);row-gap:0}</style><link rel="shortcut icon" href="https://markuphero.com/favicon.ico" type="image/x-icon"><script type="text/javascript" async="" src="./Jira_Backlog_files/f(2).txt"></script></head>
+  <body class="full-size-html">
+    <div id="app" data-v-app=""><div data-v-4a4dbb8f=""><div data-v-4a4dbb8f="" class="invisible"><div data-v-4a4dbb8f="" class="invisible-card"><div data-v-4a4dbb8f="" class="spinner-holder"><div data-v-4a4dbb8f="" class="v-spinner"><div class="v-beat v-beat-odd" style="background-color: rgb(255, 255, 255); height: 12px; width: 12px; margin: 2px; border-radius: 100%;"></div><div class="v-beat v-beat-even" style="background-color: rgb(255, 255, 255); height: 12px; width: 12px; margin: 2px; border-radius: 100%;"></div><div class="v-beat v-beat-odd" style="background-color: rgb(255, 255, 255); height: 12px; width: 12px; margin: 2px; border-radius: 100%;"></div></div></div><label data-v-4a4dbb8f=""><strong data-v-4a4dbb8f="">Loading...</strong></label><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></div></div></div><div data-v-2e9c0413="" class="canvas-wrapper"><div data-v-e450cd62="" data-v-2e9c0413="" class="nav"><!----><div data-v-e450cd62="" class="container open-menu-container"><div data-v-e450cd62="" class="logo-container"><div data-v-cacb22f3="" data-v-e450cd62=""><a data-v-cacb22f3="" href="https://markuphero.com/" class="logo" title="Markup Hero"></a><!----><!----></div></div><div data-v-e450cd62="" class="tooltip-wrapper hide-three"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="icon icon-stack"></span><span data-v-e450cd62="" class="nav-text hide-markups-text">Markups</span></button><span data-v-e450cd62="" class="tooltip">New Markup &amp; History</span></div><div data-v-e450cd62="" class="show-two show-two--left"><button data-v-e450cd62="" class="nav-btn nav-btn--large" title="Markup Tools"><span data-v-e450cd62="" class="icon icon-RectangleTool color9"></span><span data-v-e450cd62="" class="icon icon-dropdown"></span></button><!----></div><div data-v-e450cd62="" class="tooltip-wrapper show-two"><button data-v-e450cd62="" class="nav-btn nav-btn--small nav-btn--red" disabled=""><span data-v-e450cd62="" class="icon icon-delete"></span></button><span data-v-e450cd62="" class="tooltip">Delete Object<span data-v-e450cd62="" class="shortcut">delete</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper show-two"><button data-v-e450cd62="" class="nav-btn nav-btn--small" disabled=""><span data-v-e450cd62="" class="icon icon-undo"></span></button><span data-v-e450cd62="" class="tooltip">Undo<!----><span data-v-e450cd62="" class="shortcut">Ctrl+Z</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper show-two"><button data-v-e450cd62="" class="nav-btn nav-btn--small" disabled=""><span data-v-e450cd62="" class="icon icon-redo"></span></button><span data-v-e450cd62="" class="tooltip">Redo<!----><span data-v-e450cd62="" class="shortcut">Ctrl+Shift+Z</span></span></div></div><div data-v-e450cd62="" class="container hide-two"><div data-v-e450cd62="" class="dropdown"><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="icon icon-RectangleTool"></span><span data-v-e450cd62="" class="icon icon-dropdown"></span></button><span data-v-e450cd62="" class="tooltip">Markup Tools</span></div><!----></div><div data-v-e450cd62="" class="dropdown"><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="color color9"></span><span data-v-e450cd62="" class="icon icon-dropdown"></span></button><span data-v-e450cd62="" class="tooltip">Color</span></div><!----></div><div data-v-e450cd62="" class="dropdown"><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="icon icon-line4"></span><span data-v-e450cd62="" class="icon icon-dropdown"></span></button><span data-v-e450cd62="" class="tooltip">Font Size &amp; Line Thickness</span></div><!----></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small nav-btn--red" disabled=""><span data-v-e450cd62="" class="icon icon-delete"></span></button><span data-v-e450cd62="" class="tooltip">Delete Object<span data-v-e450cd62="" class="shortcut">delete</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small" disabled=""><span data-v-e450cd62="" class="icon icon-undo"></span></button><span data-v-e450cd62="" class="tooltip">Undo<!----><span data-v-e450cd62="" class="shortcut">Ctrl+Z</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small" disabled=""><span data-v-e450cd62="" class="icon icon-redo"></span></button><span data-v-e450cd62="" class="tooltip">Redo<!----><span data-v-e450cd62="" class="shortcut">Ctrl+Shift+Z</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small"><span data-v-e450cd62="" class="icon icon-crop"></span></button><span data-v-e450cd62="" class="tooltip">Crop Canvas<span data-v-e450cd62="" class="shortcut">Ctrl+Shift+U</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small"><span data-v-e450cd62="" class="icon icon-rotate"></span></button><span data-v-e450cd62="" class="tooltip">Rotate Canvas<span data-v-e450cd62="" class="shortcut">Ctrl+Shift+K</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small"><span data-v-e450cd62="" class="icon icon-multiselect"></span></button><span data-v-e450cd62="" class="tooltip">Multiselect<span data-v-e450cd62="" class="shortcut">Shift</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--small"><span data-v-e450cd62="" class="icon icon-ocrselect"></span></button><span data-v-e450cd62="" class="tooltip">Image to Text<span data-v-e450cd62="" class="shortcut">U</span></span><!----></div></div><div data-v-e450cd62="" class="container"><!----><div data-v-e450cd62="" class="dropdown"><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="icon icon-view icon-public"></span><span data-v-e450cd62="" class="nav-text hide-markups-text">Public</span><span data-v-e450cd62="" class="icon icon-dropdown hide-arrow"></span></button><span data-v-e450cd62="" class="tooltip">Privacy Setting</span></div><!----></div><div data-v-e450cd62="" class="dropdown show-share"><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--large nav-btn--blue"><span data-v-e450cd62="" class="icon icon-share"></span><span data-v-e450cd62="" class="icon icon-dropdown hide-arrow"></span></button><span data-v-e450cd62="" class="tooltip">Sharing Options</span></div><!----></div><div data-v-e450cd62="" class="tooltip-wrapper hide-share"><button data-v-e450cd62="" class="nav-btn nav-btn--large nav-btn--blue"><span data-v-e450cd62="" class="icon icon-link"></span><span data-v-e450cd62="" class="nav-text hide-share-text">Share</span></button><span data-v-e450cd62="" class="tooltip">Copy Share Link<span data-v-e450cd62="" class="shortcut">Ctrl+Shift+L</span></span></div><div data-v-e450cd62="" class="tooltip-wrapper hide-share"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="icon icon-copy"></span><span data-v-e450cd62="" class="nav-text hide-share-text">Copy</span></button><span data-v-e450cd62="" class="tooltip">Copy Markup To Clipboard As Image <span data-v-e450cd62="" class="shortcut">Ctrl+Shift+C</span></span></div><div data-v-e450cd62="" class="dropdown hide-share"><div data-v-e450cd62="" class="tooltip-wrapper"><button data-v-e450cd62="" class="nav-btn nav-btn--large"><span data-v-e450cd62="" class="icon icon-download"></span><span data-v-e450cd62="" class="nav-text hide-share-text">Download</span></button><span data-v-e450cd62="" class="tooltip">Download &amp; Export Options</span></div><!----></div><!----><button data-v-e450cd62="" class="nav-btn nav-btn--large nav-btn--green" title="Sign Up"><span data-v-e450cd62="" class="nav-text nav-text--even">Sign Up</span></button><!----></div></div><div data-v-2e9c0413="" id="markup-flex"><div data-v-2e9c0413="" class="inner-canvas"><div data-v-a15a93f7="" data-v-2e9c0413="" class="title-canvas-wrapper"><div data-v-a15a93f7="" class="upper-container"><div data-v-a15a93f7="" class="markup-title-canvas"><div data-v-d6a6f764="" data-v-a15a93f7=""><textarea data-v-d6a6f764="" placeholder="Untitled Markup" cols="20" style="height: 20px;"></textarea></div></div><div data-v-a15a93f7="" class="sub-text-wrapper"><span data-v-a15a93f7="" class="sub-text truncate">Created 2/05/26 by <strong data-v-a15a93f7="">You</strong></span></div></div><!----><!----></div><div data-v-2e9c0413="" id="konvas" class="canvas-area konvas-vertical-scrollbar konvas-horizontal-scrollbar konvas-vertical-scrollbar-mobile konvas-horizontal-scrollbar-mobile"><div data-v-2e9c0413="" id="konvas-large-content" style="width: 1260px; height: 901.688px;"><div data-v-2e9c0413="" id="konvas-content" style="width: 1260px; height: 398px; transform: translate(0px, 0px);"><div class="konvajs-content" role="presentation" style="position: relative; user-select: none; width: 1260px; height: 398px;"><canvas width="1890" height="597" style="padding: 0px; margin: 0px; border: 0px; background: transparent; position: absolute; top: -1px; left: -1px; width: 1262px; height: 400px; display: block;"></canvas><canvas width="1890" height="597" style="padding: 0px; margin: 0px; border: 0px; background: transparent; position: absolute; top: -1px; left: -1px; width: 1262px; height: 400px; display: block;"></canvas></div></div></div><div data-v-871ab580="" data-v-2e9c0413="" class="context-menu" style="top: 0px; left: 0px; visibility: hidden;"><div data-v-871ab580="" class="hyperlink-list"><button data-v-871ab580="" class="dropdown-item"><span data-v-871ab580="" class="icon icon-back"></span><span data-v-871ab580="" class="nav-text">Move to back</span><!----><span data-v-871ab580="" class="shortcut">Ctrl+↓</span></button><button data-v-871ab580="" class="dropdown-item"><span data-v-871ab580="" class="icon icon-front"></span><span data-v-871ab580="" class="nav-text">Move to front</span><!----><span data-v-871ab580="" class="shortcut">Ctrl+↑</span></button><!----><!----></div></div></div><div data-v-2e9c0413="" id="vertical-scrollbar-container" class="vertical-scrollbar-container vertical-scrollbar-container-mobile" style="display: block;"><div data-v-2e9c0413="" id="vertical-scrollbar" class="vertical-scrollbar vertical-scrollbar-mobile" style="display: block; height: 175.614px; top: 0px;"></div></div><div data-v-2e9c0413="" id="horizontal-scrollbar-container" class="horizontal-scrollbar-container horizontal-scrollbar-container-mobile" style="display: block;"><div data-v-2e9c0413="" id="horizontal-scrollbar" class="horizontal-scrollbar horizontal-scrollbar-mobile" style="display: none; width: 1260px; left: 0px;"></div></div><!----></div><div data-v-2e9c0413="" style="width: 100%;"><div data-v-2a02ee38="" data-v-2e9c0413="" class="lower-canvas"><div data-v-2a02ee38="" class="container"><div data-v-2a02ee38="" class="tooltip-wrapper zoom" style="z-index: 2; margin-right: -45px;"><button data-v-2a02ee38="" class="nav-btn nav-btn--large" style="border-radius: 20px;"><span data-v-2a02ee38="" class="icon icon-zoom-out"></span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">Out <span data-v-2a02ee38="" class="shortcut">Ctrl-</span></span></div><div data-v-2a02ee38="" class="dropdown"><div data-v-2a02ee38="" class="tooltip-wrapper"><button data-v-2a02ee38="" id="btn-zoom-percentage" class="nav-btn nav-btn--large custom-width-zoom" style="border-radius: 20px;"><span data-v-2a02ee38="" id="zoom-percentage" class="nav-text nav-text--center">65%</span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">Zoom</span></div><!----></div><div data-v-2a02ee38="" class="tooltip-wrapper zoom" style="z-index: 2; margin-left: -45px; margin-right: auto;"><button data-v-2a02ee38="" class="nav-btn nav-btn--large" style="border-radius: 20px;"><span data-v-2a02ee38="" class="icon icon-zoom-in"></span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">In <span data-v-2a02ee38="" class="shortcut">Ctrl+</span></span></div><!----><!----><!----><!----><!----><div data-v-2a02ee38="" class="tooltip-wrapper hide-small"><button data-v-2a02ee38="" class="nav-btn nav-btn--large"><span data-v-2a02ee38="" class="icon icon-star"></span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">Star Markup</span></div><div data-v-2a02ee38="" class="tooltip-wrapper hide-small"><button data-v-2a02ee38="" class="nav-btn nav-btn--large"><span data-v-2a02ee38="" class="icon icon-add"></span><span data-v-2a02ee38="" class="nav-text">Add Pages</span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">Add Pages <span data-v-2a02ee38="" class="shortcut">Ctrl+Shift+A</span></span></div><div data-v-2a02ee38="" class="dropdown"><div data-v-2a02ee38="" class="tooltip-wrapper small-margin"><button data-v-2a02ee38="" class="nav-btn nav-btn--large"><span data-v-2a02ee38="" class="icon icon-more"></span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">More</span></div><!----></div><div data-v-2a02ee38="" class="tooltip-wrapper hide-small"><button data-v-2a02ee38="" class="nav-btn nav-btn--large nav-btn--green"><span data-v-2a02ee38="" class="icon icon-question"></span></button><span data-v-2a02ee38="" class="tooltip tooltip--above">Help</span></div></div></div></div><!----></div><input data-v-2e9c0413="" id="attachment-input" accept="image/*" type="file" name="file-input" style="display: none;"><!----><!----><!----><!----><!----><!----><!----><!----><!----></div><div data-v-3b50d8c8="" class="notification notification-parent" style="z-index: 100;"></div><!----><!----><!----><!----><!----><!----></div><iframe height="0" width="0" style="display: none; visibility: hidden;" src="./Jira_Backlog_files/saved_resource.html"></iframe>
+  
+
+<div data-v-app=""><!----></div><iframe id="ssIFrame_google" sandbox="allow-scripts allow-same-origin allow-storage-access-by-user-activation" allow="identity-credentials-get" aria-hidden="true" frame-border="0" src="./Jira_Backlog_files/iframe.html" style="position: absolute; width: 1px; height: 1px; inset: -9999px; display: none;"></iframe></body></html>
