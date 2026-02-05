@@ -21,6 +21,3 @@ Analyzed 7K+ customer records to identify churn drivers and provide business rec
 - Improve onboarding for first 90 days
 - Encourage long-term contracts
 - Promote automatic payments
-
-## Video Demo
-See `/video` folder.
